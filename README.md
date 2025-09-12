@@ -1,1 +1,1 @@
-# HW-Iterators.-Generators.-Yield
+# Домашнее задание «Итераторы, генераторы»
